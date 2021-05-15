@@ -25,6 +25,6 @@ If you like this software, considering donating:
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EL8TGBR6SFH86) -->
 
 <!-- Patreon link -->
-[![Become my patron](https://i.imgur.com/5URQWRR.png)](https://www.patreon.com/hextator)
+[Become my patron on ![P](https://i.imgur.com/5URQWRR.png)atreon](https://www.patreon.com/hextator)
 
 I live in no-healthcare-land, and I haven't been doing well since...probably 2011, if I'm being honest, so you're basically going to be donating to a charity for disabled abuse victims with no middle men scraping off the top.
