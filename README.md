@@ -16,7 +16,7 @@ They are not limited to this, however, and there may be snippets of code or othe
 
 ## Support
 
-If you like this software, considering donating:
+If you like this software, please consider donating:
 
 <!-- Shield version of PayPal link
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EL8TGBR6SFH86) -->
